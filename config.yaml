@@ -11,11 +11,11 @@ anchorLinks:
 #------------------------------------------------------------------------------
 # Panel Config
 
-cellIdPreamble: "cRfkbWLEO0E985_3oK6v-"
+cellIdPreamble: "cell-"
 cells: 
-  2:
+  cRfkbWLEO0E985_3oK6v-2:
     link:
       url: "	http://192.168.20.25:12080/home"
-  3:
+  cRfkbWLEO0E985_3oK6v-3:
     link:
       url: "https://github.com/andymchugh/andrewbmchugh-flow-panel/blob/main/src/README.md"
