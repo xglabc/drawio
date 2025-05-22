@@ -16,6 +16,6 @@ cells:
   2:
     link:
       url: "	http://192.168.20.25:12080/home"
-  docs:
+  3:
     link:
       url: "https://github.com/andymchugh/andrewbmchugh-flow-panel/blob/main/src/README.md"
