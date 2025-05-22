@@ -11,9 +11,9 @@ anchorLinks:
 #------------------------------------------------------------------------------
 # Panel Config
 
-cellIdPreamble: "cell-"
+cellIdPreamble: "cRfkbWLEO0E985_3oK6v-"
 cells: 
-  cRfkbWLEO0E985_3oK6v-2:
+  2:
     link:
       url: "https://app.diagrams.net/?p=svgdata"
   docs:
