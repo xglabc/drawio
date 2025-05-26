@@ -37,8 +37,13 @@
         <mxCell id="LTBSq_qg97RKEcHS7W4E-10" value="PgVector&lt;div&gt;向量库&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="326" y="503" width="96" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YpKuAkxA7cC4Vz7W4TTv-1" target="LTBSq_qg97RKEcHS7W4E-7">
+        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="YpKuAkxA7cC4Vz7W4TTv-1" target="LTBSq_qg97RKEcHS7W4E-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-3" value="向量化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpKuAkxA7cC4Vz7W4TTv-2">
+          <mxGeometry x="-0.2075" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YpKuAkxA7cC4Vz7W4TTv-1" value="知识库文档" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="414" width="120" height="80" as="geometry" />
