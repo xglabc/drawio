@@ -31,7 +31,7 @@
         <mxCell id="LTBSq_qg97RKEcHS7W4E-7" value="&lt;span style=&quot;color: rgb(56, 58, 66); font-family: &amp;quot;Cascadia Code&amp;quot;, &amp;quot;Fira Code&amp;quot;, Consolas, monospace; font-size: 13px; text-align: left; white-space: pre; background-color: rgb(250, 250, 250);&quot;&gt;BGE-M3向量化模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="301" y="414" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LTBSq_qg97RKEcHS7W4E-9" value="&lt;span style=&quot;color: rgb(56, 58, 66); font-family: &amp;quot;Cascadia Code&amp;quot;, &amp;quot;Fira Code&amp;quot;, Consolas, monospace; font-size: 13px; text-align: left; white-space: pre; background-color: rgb(250, 250, 250);&quot;&gt;通义千问32B模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LTBSq_qg97RKEcHS7W4E-9" value="&lt;span style=&quot;color: rgb(56, 58, 66); font-family: &amp;quot;Cascadia Code&amp;quot;, &amp;quot;Fira Code&amp;quot;, Consolas, monospace; font-size: 13px; text-align: left; white-space: pre; background-color: rgb(250, 250, 250);&quot;&gt;通义千问32B模型&lt;br/&gt;或蒸馏模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTBSq_qg97RKEcHS7W4E-10" value="PgVector&lt;div&gt;向量库&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
