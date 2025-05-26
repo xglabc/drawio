@@ -7,7 +7,7 @@
         <mxCell id="YpKuAkxA7cC4Vz7W4TTv-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="253" y="188" width="386" height="424" as="geometry" />
         </mxCell>
-        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-4" value="互联网云服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=right;dashed=1;dashPattern=8 8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-4" value="互联网云服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=right;dashed=1;dashPattern=8 8;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="280" y="384" width="464" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LTBSq_qg97RKEcHS7W4E-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LTBSq_qg97RKEcHS7W4E-1" target="LTBSq_qg97RKEcHS7W4E-3" edge="1">
@@ -54,7 +54,7 @@
         <mxCell id="YpKuAkxA7cC4Vz7W4TTv-1" value="知识库文档" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="414" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-7" value="本地化部署" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-7" value="本地化部署" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="506" y="562" width="89" height="30" as="geometry" />
         </mxCell>
       </root>
