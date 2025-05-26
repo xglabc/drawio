@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="253" y="174" width="386" height="438" as="geometry" />
+        </mxCell>
+        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-4" value="互联网云服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=right;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="280" y="384" width="464" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="LTBSq_qg97RKEcHS7W4E-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LTBSq_qg97RKEcHS7W4E-1" target="LTBSq_qg97RKEcHS7W4E-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -35,7 +41,7 @@
           <mxGeometry x="499" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTBSq_qg97RKEcHS7W4E-10" value="PgVector&lt;div&gt;向量库&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="326" y="503" width="96" height="69" as="geometry" />
+          <mxGeometry x="326" y="516" width="96" height="69" as="geometry" />
         </mxCell>
         <mxCell id="YpKuAkxA7cC4Vz7W4TTv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="YpKuAkxA7cC4Vz7W4TTv-1" target="LTBSq_qg97RKEcHS7W4E-7">
           <mxGeometry relative="1" as="geometry" />
@@ -47,6 +53,9 @@
         </mxCell>
         <mxCell id="YpKuAkxA7cC4Vz7W4TTv-1" value="知识库文档" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="414" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YpKuAkxA7cC4Vz7W4TTv-7" value="本地化部署" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="506" y="562" width="89" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
